@@ -1,0 +1,26 @@
+# Example Custom Prompts for SubtransLLM
+
+## Formal Translation
+Translate the following subtitle text from {source_language} to {target_language}. Use formal language and maintain professional tone. Return only the translation:
+
+{text}
+
+## Casual/Informal Translation
+Translate the following subtitle text from {source_language} to {target_language}. Use casual, conversational language that sounds natural for everyday speech. Return only the translation:
+
+{text}
+
+## Movie/Entertainment Translation
+Translate the following movie subtitle from {source_language} to {target_language}. Preserve the dramatic tone and entertainment value. Keep it engaging and natural for viewers. Return only the translation:
+
+{text}
+
+## Technical/Documentary Translation
+Translate the following technical subtitle from {source_language} to {target_language}. Maintain accuracy of technical terms and clear explanations. Return only the translation:
+
+{text}
+
+## Localized Translation
+Translate the following subtitle text from {source_language} to {target_language}. Adapt cultural references and idioms to be understandable in the target culture. Return only the translation:
+
+{text}
